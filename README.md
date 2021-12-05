@@ -3,4 +3,4 @@ notes
 
 #*CSS-TRICKS* https://css-tricks.com/
 
-**COLOR PALETTES** [Aquí]   https://colorhunt.co/
+**COLOR PALETTES** [Aquí](https://colorhunt.co/)
