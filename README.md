@@ -15,4 +15,6 @@
 
 **COLOR PALETTES** [Clic Aquí](https://colorhunt.co/)
 
+**MYCOLOR** *Gradient color generator* [Clic Aquí](https://mycolor.space/)
+
 # notes JS
