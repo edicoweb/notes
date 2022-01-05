@@ -17,6 +17,8 @@
 
 **MY COLORS** *Gradient color generator* [Clic Aquí](https://mycolor.space/)
 
+**Shopify** [Clic Aquí](https://polaris.shopify.com/design/design)
+
 # notes JS
 
 **EXPRESSIONS AND OPERATORS** [Clic Aquí](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators)
