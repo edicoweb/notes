@@ -15,6 +15,8 @@
 
 **COLOR PALETTES** [Clic Aquí](https://colorhunt.co/)
 
+**COLOR** *html color codes*[Clic Aquí](https://htmlcolorcodes.com/)
+
 **MY COLORS** *Gradient color generator* [Clic Aquí](https://mycolor.space/)
 
 **Shopify** [Clic Aquí](https://polaris.shopify.com/design/design)
