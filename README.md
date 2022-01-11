@@ -23,8 +23,9 @@
 
 **NEUMORFISMO** *Generar código CSS Soft -UI* [Clic Aquí](https://neumorphism.io/#e0e0e0)
 
+**EASING FUNCTIONS** *funciones de aceleración *[Clic Aquí](https://easings.net/) - *Example* [Example](https://cubic-bezier.com/#.17,.67,.83,.67)
+
+
 # notes JS
 
 **EXPRESSIONS AND OPERATORS** [Clic Aquí](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators)
-
-**EASING FUNCTIONS** *funciones de aceleración *[Clic Aquí](https://easings.net/) - *Example* [Example](https://cubic-bezier.com/#.17,.67,.83,.67)
