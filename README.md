@@ -17,7 +17,7 @@
 
 **COLOR** *html color codes*[Clic Aquí](https://htmlcolorcodes.com/)
 
-**MY COLORS** *Gradient color generator* [Clic Aquí](https://mycolor.space/)
+**MY COLORS** *Gradient color generator* [Clic Aquí](https://mycolor.space/) *CSS Gradient* [Clic Aquí](https://cssgradient.io/)
 
 **Shopify** [Clic Aquí](https://polaris.shopify.com/design/design)
 
