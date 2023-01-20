@@ -16,6 +16,7 @@
 **COLOR PALETTES** [Clic Aquí](https://colorhunt.co/)
 
 **COLOR** *html color codes*[Clic Aquí](https://htmlcolorcodes.com/)
+
 **BOX-SHADOW** *Ejemplos de Box-Shadow*[Clic Aquí](https://getcssscan.com/css-box-shadow-examples)
 
 **MY COLORS** *Gradient color generator* [Clic Aquí](https://mycolor.space/) *CSS Gradient* [Clic Aquí](https://cssgradient.io/)
